@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+😋 I'm currently building awesome mobile websites with Vue.js. 
+
+![haha](https://zsms.me/copy.gif)
 
 <!--
 **heemoe/heemoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
