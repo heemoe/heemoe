@@ -4,7 +4,7 @@
 
 ![haha](https://zsms.me/copy.gif)
 
-[![HeeMoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=heemoe&count_private=true)](https://github.com/heemoe)
+[![HeeMoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=heemoe&count_private=true&show_icons=true&theme=synthwave)](https://github.com/heemoe)
 
 <!--
 **heemoe/heemoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
