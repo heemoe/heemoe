@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-😋 I'm currently building awesome mobile websites with Vue.js. 
+😋 I'm currently building awesome websites using TypeScript. 
 
 ![haha](https://zsms.me/copy.gif)
 
